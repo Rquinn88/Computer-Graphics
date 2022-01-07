@@ -1,3 +1,5 @@
+//This assignment creates a greenscreen where a chosen foreground image is placed on top of a chosen background image
+
 // Various imports
 import java.util.*;
 import java.io.*;
