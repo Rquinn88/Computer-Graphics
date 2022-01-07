@@ -6,7 +6,7 @@ import javax.swing.*;
 import javax.imageio.*;
 
 
-public class hw41
+public class hw4
 {
 	// Number of pixels
 	static int	WIDTH = 1024;
