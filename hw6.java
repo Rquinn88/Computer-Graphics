@@ -1,8 +1,3 @@
-/*
- * A template for CSCI 365. Can read a PNG, display it, fill RGB data, 
- * and write the image to a file.
- */
-
 // Various imports
 import java.util.*;
 import java.io.*;
